@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some amazing portfolios<br>🌱 I’m currently learning C#, .NET, Laravel, CodeIgniter, Python, MERN
+🔭 Hi there! I'm a passionate PHP Developer with over 3 years of experience in building and optimizing software solutions.<br>🌱 My expertise lies in PHP, SugarCRM, JavaScript, CodeIgniter, and Laravel, with a strong focus on creating clean, efficient, and scalable code.
 
 
 ## 🌐 Socials:
