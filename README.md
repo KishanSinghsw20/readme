@@ -2,8 +2,8 @@
 🔭 Hi there! I'm a passionate PHP Developer with over 3 years of experience in building and optimizing software solutions.<br>🌱 My expertise lies in PHP, SugarCRM, JavaScript, CodeIgniter, and Laravel, with a strong focus on creating clean, efficient, and scalable code.
 
 ## 💻 What I Do:
-**Backend Development**: Crafting robust and secure server-side applications.
-**CRM Customization**: Expertise in customizing and enhancing SugarCRM.
+**Backend Development**: Crafting robust and secure server-side applications.<br>
+**CRM Customization**: Expertise in customizing and enhancing SugarCRM.<br>
 **Full-Stack Solutions**: Developing interactive UIs with JavaScript and seamless integrations with backend systems.
 
 ## 🌐 Socials:
